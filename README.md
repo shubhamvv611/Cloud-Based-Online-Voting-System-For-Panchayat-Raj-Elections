@@ -1,5 +1,7 @@
 # Cloud-Based-Online-Voting-System-For-Panchayat-Raj-Elections
 An AWS Cloud-based online voting system for Panchayat raj in India. Migration percentage of people from rural area to urban is increasing as per job opportunities, So there should be a platform to increase Educated Voting In Panchayat Raj Elections.
+Refer Screenshot - [Cloud-Voting-PDf.pdf](https://github.com/shubhamvv611/Cloud-Based-Online-Voting-System-For-Panchayat-Raj-Elections/files/12231138/Cloud-Voting-PDf.pdf)
+
 Now Gov of India that means Election Commission of india is designing same product to conduct remote voting system for migrated people.
 this Online Voting Portal has 2 Systems first for administration Of Elections which perform a operations like 
 Creating Virtual Voting System for PErticular people 
