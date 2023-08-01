@@ -1,0 +1,135 @@
+*
+{
+font-weight:500!important;		
+}
+body
+{
+
+	margin: 0;
+  	padding: 0;
+  	height: 100%;
+ 
+}
+.nav1{
+	color: #6c757deb;
+}
+.b1{
+	font-size: 1.2em;
+
+}
+.bg-white
+{
+	box-shadow: 0 8px 6px -6px #c1bbbb;
+}
+
+.div1
+{
+	background-color: white;
+	padding-right: 0;
+    padding-left: 0;
+	
+}
+
+.color{
+    color: white;
+    text-decoration: none;
+}
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+.size{
+	font-weight: 1.0em;
+	font-size: 30px;
+	
+}
+.mar{
+	margin: 20px;
+}
+.col-7{
+	padding: 0;
+}
+.col-4{
+	background-color: #6c757deb;
+}
+
+.card
+{
+	background-color:white;
+	border-radius: 3px;
+	box-shadow: 0 0 25px 5px #b8b894; 
+}
+
+.indent{
+	padding-left: 1.0em;
+	background-color: white;
+}
+.footer {
+	color:gray;
+	padding:3px;
+	margin-top:5px;
+	font-size:20px;
+	bottom:0;
+	position:relative;
+}
+.zoom {
+transition: transform 0.8s;
+
+}
+.zoom:hover {
+ transform: scale(1.04); 
+}
+.badge-gradient
+{
+	color:#fff;	
+	background: #ff416c; /* fallback for old browsers */
+  	background: -webkit-linear-gradient(to right, #ff416c, #ff4b2b); /* Chrome 10-25, Safari 5.1-6 */
+  	background: linear-gradient(to right, #ff416c, #ff4b2b);
+}
+
+.colorwhite
+{
+	color:white;
+}
+
+.signupdata
+{
+	text-transform:uppercase;
+	font-weight:600;
+	
+}
+
+.Admin-bg-color{
+background: rgba(0, 0, 0, 0.7);
+color:white;
+}
+
+.thead-red {
+    color: #fff;
+    background-color:#dc3545;
+    border-color:#dc3545;
+}
+
+
+.LoginFormBackground
+{
+/*background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%)*/;
+/*background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%)!important*/;
+/*background: #3c3b3f; /* fallback for old browsers */
+ /*/* background: -webkit-linear-gradient(to right, #3c3b3f, #605c3c)*/; /* Chrome 10-25, Safari 5.1-6 */
+ /* background:linear-gradient(to right, #282729, #9c9b94a3)*/;
+
+  background:linear-gradient(rgba(218, 51, 66, 0.8),rgba(199, 56, 41, 0.9)),url(../../images/ElectionBack1.png)no-repeat center center fixed;
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    position: relative;
+  }
+
+.card-transperent
+{
+	background-color:#0b0d0ed4!important;
+}
