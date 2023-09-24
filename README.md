@@ -1,4 +1,6 @@
-# Cloud-Based-Online-Voting-System-For-Panchayat-Raj-Elections
+# Cloud-Based-Online-Voting-System-For-Panchayat-Raj-Elections![Online-Voting](https://github.com/shubhamvv611/Cloud-Based-Online-Voting-System-For-Panchayat-Raj-Elections/assets/25903586/57979435-c594-40f5-b026-5918af7dcf85)
+
+
 An AWS Cloud-based online voting system for Panchayat raj in India. Migration percentage of people from rural area to urban is increasing as per job opportunities, So there should be a platform to increase Educated Voting In Panchayat Raj Elections.
 Refer Screenshot -
 [Cloud-Voting-PDf.pdf](https://github.com/shubhamvv611/Cloud-Based-Online-Voting-System-For-Panchayat-Raj-Elections/files/12231556/Cloud-Voting-PDf.pdf)
